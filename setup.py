@@ -3,7 +3,7 @@ from setuptools.extension import Extension
 import numpy as np
 import sys
 
-C_COMPILE = True
+C_COMPILE = False
 USE_CYTHON = True
 
 __version__ = "0.0.0"
