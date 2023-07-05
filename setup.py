@@ -4,7 +4,7 @@ import numpy as np
 import sys
 
 C_COMPILE = False
-USE_CYTHON = True
+USE_CYTHON = False
 
 __version__ = "0.0.0"
 exec(open('velocyto/_version.py').read())
